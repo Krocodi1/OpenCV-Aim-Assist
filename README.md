@@ -1,7 +1,7 @@
 # OpenCV-Aim-Assist
 *This was created only for educational purposes.
 
-Sometimes it assist, but in most cases it only hinders.
+Sometimes it assists, but in most cases it only hinders.
 Cascade was trained mainly for Grineer Lancer.
 
 It looks cool on the first glance:  https://www.youtube.com/watch?v=sD2J6viqVuk
